@@ -9,7 +9,7 @@ When I review a PR and "Request Changes", I like to make it clear to the author 
 
 [<img src="https://badges.ws/badge/change%20request-ff5555" alt="change request"/>](https://github.com/katrinabrock/katrinabrock/blob/main/review-comment-badges.md) - Comments with this badge need to be addressed before I approve the PR. That doesn't mean you have to do exactly what I'm suggesting or even change the code. It's possible that a justification is all that's needed. PR reviews marked as "Request Changes" will have at least one of this type of comment (or direclty request a change in the PR summary).
 
-[<img src="https://badges.ws/badge/comment-6272a4" alt="comment"/>](https://github.com/katrinabrock/katrinabrock/blob/main/review-comment-badges.md) - This badge indicates that I am comfortable merging the PR regardless without the author responding to the comment in any way. The comment may contain suggestions, but they should be considered completely optional.
+[<img src="https://badges.ws/badge/comment-6272a4" alt="comment"/>](https://github.com/katrinabrock/katrinabrock/blob/main/review-comment-badges.md) - This badge indicates that I am comfortable merging the PR without the author responding to the comment in any way. The comment may contain suggestions, but they should be considered completely optional.
 
 [<img src="https://badges.ws/badge/done-green" alt="done"/>](https://github.com/katrinabrock/katrinabrock/blob/main/review-comment-badges.md) - Comments with this badge used to have the `change request` badge but are now resolved to my satisfaction as the reviewer. (I don't use the github "Resolve" feature for this because the PR author maybe using it for other purposes e.g. keeping track of which comments they have attempted to address.)
 
