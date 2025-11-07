@@ -17,4 +17,4 @@ Examples:
 - [Performance Improvement in ctmm](https://github.com/ctmm-initiative/ctmm/pull/60)
 - [Mocking cmdstand in cmdstanr testing](https://github.com/stan-dev/cmdstanr/pull/1078)
 
-I also love to both give and recieve detailed on code and processes. It's a great way to learn!
+I also love to both give and recieve detailed feedback on code and processes. It's a great way to learn!
