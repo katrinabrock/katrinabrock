@@ -1,3 +1,6 @@
+
+### R Absolute Beginner
+
 Here are the tutorials I recommend to folks learning R for the first time:
 
 
@@ -8,3 +11,6 @@ Here are the tutorials I recommend to folks learning R for the first time:
   * Joins: https://r-datatable.com/articles/datatable-joins.html
   * Reshaping: https://r-datatable.com/articles/datatable-reshape.html
 
+### Git
+
+* For R users learning git for the first time: https://happygitwithr.com/
